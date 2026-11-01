@@ -1,0 +1,6 @@
+{
+  "name": "Robot Math Adventure 3D",
+  "description": "Game edukasi perkalian 1-10 berbasis 3D endless runner dengan tiga jalur untuk siswa sekolah dasar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
